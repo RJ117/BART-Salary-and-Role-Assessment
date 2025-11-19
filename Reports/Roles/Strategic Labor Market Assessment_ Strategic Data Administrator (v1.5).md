@@ -11,7 +11,7 @@ Target: Executive Peer Review & Talent Strategy Listen to this tab
 
 1.(\#1-executive-scorecard--algorithmic-assessment)  
 2.(\#2-correction--scope-clarification-the-safety-mandate)  
-3\. Economic Positioning: Public Utility vs. Private Equity  
+3.(\Economic Positioning: Public Utility vs. Private Equity)  
 4.(\#4-role-logic-audit-scope-compression--oig-span-of-control)  
 5.(\#5-organizational-psychology-industrial-liability-vs-trauma)  
 6.(\#6-fiscal-solvency-analysis-the-2027-cliff)  

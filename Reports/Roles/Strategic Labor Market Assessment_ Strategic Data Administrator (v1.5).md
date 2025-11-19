@@ -143,7 +143,7 @@ The historical stability of this role is currently illusory. The agency is appro
 In a unionized environment (AFSCME Local 3993), layoffs are governed by seniority.
 
 * **Last In, First Out:** A new hire in 2025 will be at the bottom of the seniority roster when the FY27 deficit hits.  
-* **Administrative Vulnerability:** In a transit crisis, "frontline" roles (Train Operators, Police) are politically protected. "Administrative Overhead"—specifically high-salary analyst roles ($185k)—are prime targets for **Reduction in Force (RIF)**.
+* **Administrative Vulnerability:** In a transit crisis, "frontline" roles (Train Operators, Police) are politically protected. "Administrative Overhead" specifically high-salary analyst roles ($185k) are prime targets for **Reduction in Force (RIF)**.
 
 ---
 
